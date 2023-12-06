@@ -41,7 +41,16 @@
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ"
+            "value":"╭────────┈⊷
+│𓆩𝚳𝚫𝐋𝚰𝐊𓆩𓈊𓆪𝐒𝚫𝚮𝚫𝚩𓆪
+│
+│𝐉𝐎𝐈𝐍 𝐌𝐘 𝐆𝐑𝐎𝐔𝐏 ꜛꜜ
+│
+│𓆩🅼𝚫𝐋𝚰𝐊𓆩🅷︎ᗪ𓆪🆂︎𝚻𝚵𝚱𝚬𝐑𝛅𓆪™ 
+│
+│亗ᴵᶠ ᵞᴼᵁ ᴺᴱᴱᴰ ᴬᴺᵞ ᴴᴱᴸᴾ亗
+│₊₃₃₇₅₆₄₉₁₈₀₇
+╰──────┈⊷"
         },
         "CHATBOT": {
             "description": "AI chatbot",
@@ -56,7 +65,7 @@
         "BOT_INFO": {
             "description": "Name, image, owner and other details in menu (seperate with comma)",
             "required": true,
-            "value":"Raganork,SKL11,91123456789,https://i.imgur.com/B2YWSLk.jpg"
+            "value":"Malik-WhatsApp-Bot,ᯓᬊ᭄𝙈ͥ𝙖ͫ𝙡𝙞𝙠༽⃝𝐒̹𝐚̏𝐡֦𝐚͗𝐛͗ᬊᬁ,33756491807,https://i.imgur.com/IGdomdV.jpg"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
@@ -71,7 +80,7 @@
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"919074309534"
+            "value":"33756491807"
         },
         "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
@@ -79,7 +88,7 @@
             "value":"{pp} Active since {uptime}\n User:{sender}"
         },
        "SESSION": {
-            "description": "Your MD session",
+            "description": "Raganork~3c3f0192cb0ab14babecf2c0846a9b97:77336e2b2f386b55786e4d3d",
             "required": true
              
         }
